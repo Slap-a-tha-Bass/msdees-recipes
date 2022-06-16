@@ -20,8 +20,8 @@ export default function Card({
           <Image
             src={image}
             alt={title}
-            width={250}
-            height={250}
+            width={300}
+            height={400}
           />
         </div>
       </Link>
